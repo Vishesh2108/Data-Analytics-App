@@ -43,3 +43,6 @@ A simple yet powerful Streamlit-based web application that enables users to **dr
    ```bash
    git clone https://github.com/Vishesh2108/Data-Analytics-App.git
    cd Data-Analytics-App
+pip install -r requirements.txt
+
+streamlit run First.py
